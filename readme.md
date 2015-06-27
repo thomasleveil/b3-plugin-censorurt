@@ -11,6 +11,9 @@ This plugin extends the original censor plugin with the ability to mute and
 slap players instead of giving them warning tickets.
 This plugin is meant to work for Urban Terror servers only.
 
+******
+*NOTE: since B3 v1.10.1 beta this plugin has been included in the standard plugins set, thus all patches and updates will be performed in the official B3 repository.*
+******
 
 Changelog
 ---------
